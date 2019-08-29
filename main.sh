@@ -7,3 +7,6 @@ source installation/install_nvim.sh
 source installation/install_docker.sh
 source installation/install_julia.sh
 
+# Copy dotfiles
+cp dotfiles/* $HOME
+
