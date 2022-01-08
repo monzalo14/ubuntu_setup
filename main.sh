@@ -9,4 +9,4 @@ source installation/install_julia.sh
 
 # Copy dotfiles
 cp dotfiles/* $HOME
-
+cp installation/aliases.sh $HOME
